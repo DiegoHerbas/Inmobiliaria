@@ -58,6 +58,10 @@ namespace Mobiviaria
             bd.CompleteTransaction();
             return true;
         }
+        private void hola() {
+
+            // aqui tiene que ir el hola
+        }
       
     }
 
