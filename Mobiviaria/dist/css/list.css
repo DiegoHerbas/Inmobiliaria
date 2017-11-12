@@ -1,0 +1,24 @@
+﻿.list {
+    border: 1px solid #0094ff;
+    list-style-type: none;
+    margin: 0px;
+    background-color: #FFF;
+    text-align: left;
+    cursor: auto;
+    overflow: auto;
+    height: 200px;
+}
+
+ul.list li {
+    padding: 2px 2px;
+}
+
+.listitem {
+    color: windowtext;
+    text-align: left;
+    list-style-type: none;
+}
+
+.hoverlistitem {
+    background-color: #B2D8FF;
+}

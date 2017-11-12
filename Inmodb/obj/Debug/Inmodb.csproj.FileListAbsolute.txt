@@ -1,0 +1,16 @@
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Inmobiliaria\Inmodb\obj\Debug\Inmodb.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Inmobiliaria\Inmodb\obj\Debug\Inmodb.pdb
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\Inmobiliaria\Inmodb\obj\Debug\Inmodb.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\Inmobiliaria\Inmodb\obj\Debug\Inmodb.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\Inmobiliaria\Inmodb\obj\Debug\Inmodb.pdb
+C:\Users\Doflamingo\Documents\Visual Studio 2015\Projects\Inmobiliaria\Inmodb\obj\Debug\Inmodb.dll
+C:\Users\Doflamingo\Documents\Visual Studio 2015\Projects\Inmobiliaria\Inmodb\obj\Debug\Inmodb.pdb
+C:\Users\Doflamingo\Documents\Visual Studio 2015\Projects\Emozione\Inmodb\obj\Debug\Inmodb.csprojResolveAssemblyReference.cache
+C:\Users\Doflamingo\Documents\Visual Studio 2015\Projects\Emozione\Inmodb\obj\Debug\Inmodb.dll
+C:\Users\Doflamingo\Documents\Visual Studio 2015\Projects\Emozione\Inmodb\obj\Debug\Inmodb.pdb
+C:\bin\Inmodb.dll.config
+C:\bin\Inmodb.dll
+C:\bin\Inmodb.pdb
+C:\Users\Doflamingo\Documents\Visual Studio 2015\Projects\Taller\Inmodb\obj\Debug\Inmodb.csprojResolveAssemblyReference.cache
+C:\Users\Doflamingo\Documents\Visual Studio 2015\Projects\Taller\Inmodb\obj\Debug\Inmodb.dll
+C:\Users\Doflamingo\Documents\Visual Studio 2015\Projects\Taller\Inmodb\obj\Debug\Inmodb.pdb
