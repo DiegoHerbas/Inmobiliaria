@@ -58,14 +58,21 @@ namespace Mobiviaria
             bd.CompleteTransaction();
             return true;
         }
+<<<<<<< HEAD
 
         private void hola()
         {
 
             // aqui tiene que ir el hola de diego
-            // hola que hace de diego .....
         }
 
+=======
+        private void hola() {
+
+            // aqui tiene que ir el hola
+        }
+      
+>>>>>>> jose.tapia
     }
 
 }
